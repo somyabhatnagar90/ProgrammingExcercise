@@ -146,11 +146,11 @@
     //This is for the app to run on the device so I havent modified the code for both.
     //Follow the steps provided in the README.md file.
     
-//    NSString *latLon = @"37.33,-122.03"; // approximate latLon of The Mothership (a.k.a Apple headquarters)
+    NSString *latLon = @"37.33,-122.03"; // approximate latLon of The Mothership (a.k.a Apple headquarters)
     
     //Uncomment the following lines if you want to run the app on a device.
     
-    NSString *latLon = [NSString stringWithFormat:@"%@, %@", self.latitude, self.longitude];
+    // NSString *latLon = [NSString stringWithFormat:@"%@, %@", self.latitude, self.longitude];
     
     NSString *clientID = [NSString stringWithUTF8String:kCLIENTID];
     NSString *clientSecret = [NSString stringWithUTF8String:kCLIENTSECRET];
