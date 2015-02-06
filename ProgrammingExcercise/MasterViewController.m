@@ -141,7 +141,7 @@
 {
     //set parameters to fetch data from the api
     
-    //if you are running this app on a simaltor I recommend using this
+    //if you are running this app on a simulator I recommend using this
     //Even if the app is running on simulator and is taking a static latLon postion it will ask for user's current location authorization.
     //This is for the app to run on the device so I havent modified the code for both.
     //Follow the steps provided in the README.md file.
