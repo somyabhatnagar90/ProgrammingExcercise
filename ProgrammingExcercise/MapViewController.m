@@ -23,6 +23,7 @@
     
      // Do any additional setup after loading the view.
 
+    //if i commit this, the files added in gitignore shouldn't get uploaded
     firstLaunch = YES;
     
     //Setup MapView
