@@ -1,0 +1,4 @@
+*.xcworkspace
+*.lock
+Pods/
+*.pbxproj
